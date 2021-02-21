@@ -54,3 +54,5 @@ function getCredsForEnvironment(environment){
 
 //getClientToken("SANDBOX");
 module.exports = {getClientToken};
+
+//Ive changed this file!!!

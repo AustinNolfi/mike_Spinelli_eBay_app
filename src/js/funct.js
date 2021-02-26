@@ -136,12 +136,5 @@ function processInsights(insightsJson){
 };
 
 
-//+++++++TESTING CALLS++++++//
-
-
-
-
-
-
 
 module.exports = {lookUpListings, getMerchandisedProducts, marketplaceInsights};
